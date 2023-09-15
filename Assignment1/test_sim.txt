@@ -1,0 +1,22 @@
+
+0 DriverRequest d1 2,5 1
+0 DriverRequest d2 6,4 2
+0 DriverRequest d3 2,6 1
+0 DriverRequest d4 4,8 2
+0 DriverRequest d5 1,9 4
+0 DriverRequest d6 6,3 2
+0 DriverRequest d7 2,7 1
+0 DriverRequest d8 9,3 3
+
+5 PassengerRequest r1 3,4 1,6 3
+6 PassengerRequest r2 2,6 2,4 10
+8 PassengerRequest r3 4,1 2,1 1
+10 PassengerRequest r4 7,2 3,8 6
+10 PassengerRequest r5 3,4 8,6 2
+15 PassengerRequest r6 5,3 9,2 10
+18 PassengerRequest r7 6,2 1,3 8
+20 PassengerRequest r8 1,1 4,2 6
+20 PassengerRequest r9 4,0 3,6 3
+25 PassengerRequest r10 5,2 1,7 4
+30 PassengerRequest r11 1,3 1,4 3
+30 PassengerRequest r12 0,0 2,5 6
